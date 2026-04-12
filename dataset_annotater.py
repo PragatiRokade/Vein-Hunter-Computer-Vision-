@@ -3,6 +3,8 @@ import numpy as np
 import glob
 import os
 
+#To add ground truth masks to the manually collected data
+
 class VeinAnnotator:
     def __init__(self):
         self.drawing = False
