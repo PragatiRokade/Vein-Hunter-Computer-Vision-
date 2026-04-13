@@ -76,7 +76,7 @@ python live_vein_hunter.py
 
 ## Academic Report
 
-The full methodology, ablation studies, and comparative results are detailed in our technical report: **"Vein Hunter: An Attention-Guided Deep Learning Pipeline for Real-Time Subcutaneous Vein Extraction"** (Formatted for NeurIPS).
+The full methodology, ablation studies, and comparative results are detailed in our technical report: **"Vein Hunter: A Hybrid Computer Vision and Deep Learning Pipeline for Subcutaneous Vein Extraction"** (Formatted for NeurIPS).
 
 -----
 
